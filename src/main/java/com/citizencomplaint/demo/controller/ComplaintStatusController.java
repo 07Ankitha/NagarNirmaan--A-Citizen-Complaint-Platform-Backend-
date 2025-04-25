@@ -13,7 +13,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/admin/complaints")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://nagarnirmaan.onrender.com")
 public class ComplaintStatusController {
 
     @Autowired

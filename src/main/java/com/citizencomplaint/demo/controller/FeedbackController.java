@@ -12,7 +12,7 @@ import java.util.*;
 
 @RestController
 @RequestMapping("/api/feedback")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://nagarnirmaan.onrender.com")
 public class FeedbackController {
 
     @Autowired

@@ -14,7 +14,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/assignments")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://nagarnirmaan.onrender.com")
 @RequiredArgsConstructor
 public class AssignmentController {
 

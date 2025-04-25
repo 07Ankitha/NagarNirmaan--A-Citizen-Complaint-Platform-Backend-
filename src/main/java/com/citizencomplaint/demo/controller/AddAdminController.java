@@ -12,7 +12,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/admin/users")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://nagarnirmaan.onrender.com")
 public class AddAdminController {
 
     @Autowired
