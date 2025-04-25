@@ -14,6 +14,8 @@ import java.util.List;
 @RequiredArgsConstructor
 public class OrganizationController {
 
+    //private final ComplaintService complaintService;
+
     private final OrganizationService organizationService;
 
     // Get organizations by city and category
